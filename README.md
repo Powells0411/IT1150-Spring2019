@@ -14,7 +14,8 @@ CRNs 12740 + 12293
     Each week, I will push code that we write during the in-person sections of IT 1150
 </li>
 <li>
-    Both the in-person and online sections can use the coding examples as they work on their homework assignments.
+    Both the in-person and online sections can use the coding 
+    examples as they work on their homework assignments.
 </li>
 <li>
     Use the links above to view the examples that were created.
